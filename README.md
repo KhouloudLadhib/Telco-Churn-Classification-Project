@@ -5,8 +5,9 @@
 ### Goal
 This python code analyzes data of a fictional telco company that provided home phone and internet services to 7043 customers in California in Q3. The goal is build a classification model that could predict if a customer will churn or not. Below are the questions that the project answers.
 
-* What is the percentage of male vs. female by churn value?
-* What is the churn value count by contract type?
+* What is the distribution of churn value?
+* What is the count of male vs. female by churn value?
+* What is the mean churn value count by contract type?
 * Is there a relationship between churn value and monthly charges?
 * What's the most popular payment method?
 * Do more people enroll in device protection?
